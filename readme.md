@@ -1,6 +1,6 @@
 # Timberline5
 
-![[render.jpg]]
+![](render.jpg)
 
 The best way I've found to export the files so far is to open Blender, select the plate you want(Top, Bottom, Cam, Bottom Square, Arm), copy it into another instance of Blender, then apply all modifiers.
 
